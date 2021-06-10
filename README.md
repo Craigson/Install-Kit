@@ -85,4 +85,4 @@ A crowd-sourced list of equipment and hardware for installations
 
 - Pelican Case 1510
 - Cable Organizer
-  - (Electronics & Cable Organizer (Amazon)](https://www.amazon.com/gp/product/B08KZSBDF2)
+  - [Electronics & Cable Organizer (Amazon)](https://www.amazon.com/gp/product/B08KZSBDF2)
