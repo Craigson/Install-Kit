@@ -31,6 +31,7 @@ A crowd-sourced list of equipment and hardware for installations
 - Cordless (Electric) Screwdriver + Bits
 - Box Cutter
 - Leatherman / Multitool
+- Multimeter
 
 ## Equipment
 - Headlamp
