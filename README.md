@@ -161,6 +161,8 @@ A crowd-sourced list of equipment and hardware for installations
   - [Folding Table](https://www.homedepot.com/p/Lifetime-4-ft-One-Hand-Adjustable-Height-Fold-in-Half-Table-Almond-80726/305551875)
 - AntiStatic Bags
   - [Antistatic Bags, 20x Pack (Amazon)](https://www.amazon.com/Daarcin-Resealable-8-26x9-45in-21x24cm-Electronic/dp/B08CK6HFGZ)
+- Magnetic Trays
+  - [Magnetic Storage Trays (Amazon)](https://www.amazon.com/WXTOOLS-Magnetic-Organizer-Handyman-Woodworker/dp/B0921QVMVW/ref=sr_1_17?dchild=1&keywords=organizer+for+pc+parts&qid=1623382050&sr=8-17)
 
 ## Lighting
 
