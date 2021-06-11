@@ -34,7 +34,8 @@ A crowd-sourced list of equipment and hardware for installations
   - [HDMI, Gigabet Ethernet, USB-C, SD/Micro. USB (Amazon)](https://www.amazon.com/Satechi-Aluminum-Multi-Port-Adapter-Pass-Through/dp/B075FW7H5J)
 - HDMI to Mini HDMI
   - [UGREEN 8" Adapter (Amazon)](https://www.amazon.com/UGREEN-Compatible-Raspberry-Camcorder-Projector/dp/B00B2HOS08)
-- USB to USB-C adapter -[USB to USB C (Amazon)](https://www.amazon.com/Syntech-Adapter-Thunderbolt-Compatible-MacBook/dp/B07CVX3516)
+- USB to USB-C adapter
+  - [USB to USB C (Amazon)](https://www.amazon.com/Syntech-Adapter-Thunderbolt-Compatible-MacBook/dp/B07CVX3516)
 - HDMI to DVI adapter
   - [Male to Female DVI to HDMI converter (Amazon)](https://www.amazon.com/Rankie-Adapter-2-Pack-Gold-Plated-Converter/dp/B00ZMVGTA2)
 - HDMI to DP Adapter
