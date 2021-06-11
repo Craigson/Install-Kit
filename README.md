@@ -159,6 +159,8 @@ A crowd-sourced list of equipment and hardware for installations
   - [3M VHB, 15' (Amazon)](https://www.amazon.com/Width-Length-Black-Multipurpose-Double/dp/B07K4PQG8P)
 - Folding Table
   - [Folding Table](https://www.homedepot.com/p/Lifetime-4-ft-One-Hand-Adjustable-Height-Fold-in-Half-Table-Almond-80726/305551875)
+- AntiStatic Bags
+  - [Antistatic Bags, 20x Pack (Amazon)](https://www.amazon.com/Daarcin-Resealable-8-26x9-45in-21x24cm-Electronic/dp/B08CK6HFGZ)
 
 ## Lighting
 
