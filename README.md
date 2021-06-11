@@ -25,6 +25,8 @@ A crowd-sourced list of equipment and hardware for installations
   - [USB 2.0 A-Male to Mini-B, 6' (Amazon)](https://www.amazon.com/AmazonBasics-USB-2-0-Cable-Male/dp/B00NH11N5A)
 - USB C
   - [6' Nylon Braided, 5x Pack (Amazon)](https://www.amazon.com/Braided-Charger-Charging-Compatible-Samsung/dp/B07VQYLXJC)
+- USB Extender
+  - [CableMatters Active USB Extender, 33' (Amazon)](https://www.amazon.com/dp/B00DMFFL2W)
 
 ## Adapters
 
