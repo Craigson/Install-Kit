@@ -29,9 +29,6 @@ A crowd-sourced list of equipment and hardware for installations
   - [CableMatters Active USB Extender, 33' (Amazon)](https://www.amazon.com/dp/B00DMFFL2W)
 - Audio Aux
   - [1/8" Aux Male-Male (Amazon)](https://www.amazon.com/Cable-UNBREAKcable-3-5mm-Auxiliary-Gold-Plated/dp/B07D6N526S)
-- PC Power Cables
-  - [18 AWG NEMA 5-15P, 10' (Amazon)](https://www.amazon.com/10-Standard-Computer-Power-Cord/dp/B0002GRUIM)
-  - [16 AWG NEMA 5-15P, 10' (Amazon)](https://www.amazon.com/Cable-Matters-2-Pack-Monitor-Computer/dp/B00WA0W62S)
 
 ## Adapters
 
@@ -132,6 +129,8 @@ A crowd-sourced list of equipment and hardware for installations
   - [Kingston 240GB 2.5" SSD (Amazon)](https://www.amazon.com/Kingston-240GB-Solid-SA400S37-240G/dp/B01N5IB20Q)
 - Micro SD Cards
   - [Class 10 Industrial Micro SD (Amazon)](https://www.amazon.com/Sandisk-Industrial-MicroSD-UHS-I-SDSDQAF3-008G/dp/B07BLQHVQD)
+- Cage Nuts
+  [M6 x 16mm Cage Nuts, 50x pack (Amazon)](https://www.amazon.com/Washers-Cabinet-Shelves-Routers-Self-Locking/dp/B074V8HH5V)
 
 ## Cable Management
 
@@ -177,6 +176,8 @@ A crowd-sourced list of equipment and hardware for installations
   - [3M VHB, 15' (Amazon)](https://www.amazon.com/Width-Length-Black-Multipurpose-Double/dp/B07K4PQG8P)
 - Folding Table
   - [Folding Table](https://www.homedepot.com/p/Lifetime-4-ft-One-Hand-Adjustable-Height-Fold-in-Half-Table-Almond-80726/305551875)
+- Portable Seat
+  - [Telecopic Portable Seat (Amazon)](https://www.amazon.com/Deers-life-Retractable-Collapsible-Telescoping/dp/B08J7W8Y8Z)
 - Anti-Static Bags
   - [Anti-static Bags, 20x Pack (Amazon)](https://www.amazon.com/Daarcin-Resealable-8-26x9-45in-21x24cm-Electronic/dp/B08CK6HFGZ)
 - Magnetic Trays
@@ -197,6 +198,9 @@ A crowd-sourced list of equipment and hardware for installations
 
 - Extension Cord
   - [20' Extension Cord (Amazon)](https://www.amazon.com/AmazonBasics-Extension-Cord-feet-White/dp/B075BNXVGS)
+- PC Power Cables
+  - [18 AWG NEMA 5-15P, 10' (Amazon)](https://www.amazon.com/10-Standard-Computer-Power-Cord/dp/B0002GRUIM)
+  - [16 AWG NEMA 5-15P, 10' (Amazon)](https://www.amazon.com/Cable-Matters-2-Pack-Monitor-Computer/dp/B00WA0W62S)
 - Surge Protector
   - [15A 8Ft Power Strip / Surge Protector, 18 Outlets (Amazon)](https://www.amazon.com/Yintar-Protector-Outlets-Extension-Essentials/dp/B08HPQG555)
 - Power Bank
