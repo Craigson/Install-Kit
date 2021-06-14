@@ -27,6 +27,11 @@ A crowd-sourced list of equipment and hardware for installations
   - [6' Nylon Braided, 5x Pack (Amazon)](https://www.amazon.com/Braided-Charger-Charging-Compatible-Samsung/dp/B07VQYLXJC)
 - USB Extender
   - [CableMatters Active USB Extender, 33' (Amazon)](https://www.amazon.com/dp/B00DMFFL2W)
+- Audio Aux
+  - [1/8" Aux Male-Male (Amazon)](https://www.amazon.com/Cable-UNBREAKcable-3-5mm-Auxiliary-Gold-Plated/dp/B07D6N526S)
+- PC Power Cables
+  - [18 AWG NEMA 5-15P, 10' (Amazon)](https://www.amazon.com/10-Standard-Computer-Power-Cord/dp/B0002GRUIM)
+  - [16 AWG NEMA 5-15P, 10' (Amazon)](https://www.amazon.com/Cable-Matters-2-Pack-Monitor-Computer/dp/B00WA0W62S)
 
 ## Adapters
 
@@ -84,6 +89,12 @@ A crowd-sourced list of equipment and hardware for installations
   - [8" Heavy duty Zip ties, 100x Pack (Amazon)](https://www.amazon.com/Hmrope-Premium-Plastic-Strength-Self-Locking/dp/B07TG9VMWY)
 - Installation Driver
   - [Milwaukee Installation Driver](https://www.milwaukeetool.com/Products/Power-Tools/Fastening/Screwdrivers/2505-20)
+- Tool Belt
+  - [Carhatt Padded Belt, Build Your Own (Amazon)](https://www.amazon.com/Carhartt-Legacy-Build-Custom-Padded/dp/B06XGC7WHT)
+  - [Drill Holster (Amazon)](https://www.amazon.com/Carhartt-Legacy-Build-Custom-Holster/dp/B06XFY58Y4)
+  - [Pouch (Amazon)](https://www.amazon.com/Carhartt-Legacy-Build-Custom-Framers/dp/B06XG89NHC)
+- Security Bits
+  - [Triplett Security Bit Kit 32-Piece Kit](https://www.amazon.com/Triplett-Industrial-Security-Bit-Extension/dp/B003YHIPLC)
 
 ## Equipment
 
@@ -119,6 +130,8 @@ A crowd-sourced list of equipment and hardware for installations
   - [2" x 30 Yards, Black (Amazon)](https://www.amazon.com/Professional-Gaffer-Power-Non-Reflective-Multipurpose/dp/B00GZE3UJ8)
 - SSD Drive
   - [Kingston 240GB 2.5" SSD (Amazon)](https://www.amazon.com/Kingston-240GB-Solid-SA400S37-240G/dp/B01N5IB20Q)
+- Micro SD Cards
+  - [Class 10 Industrial Micro SD (Amazon)](https://www.amazon.com/Sandisk-Industrial-MicroSD-UHS-I-SDSDQAF3-008G/dp/B07BLQHVQD)
 
 ## Cable Management
 
@@ -139,6 +152,8 @@ A crowd-sourced list of equipment and hardware for installations
   - [LAN/Cat5/Cat6 PoE Miltifunction Cable Tester (Amazon)](https://www.amazon.com/Advanced-Multifunction-Tracker-Underground-Telephone/dp/B08334R9KP)
 - Crimp Toolkit
   - [RJ45 Crimp Tool Kit w/ RJ45 Connectors (Amazon)](https://www.amazon.com/Solsop-Crimping-Crimper-Connectors-Stripper/dp/B083Q16SB6)
+- 4G LTE Modem
+  - [PepLink 4G LTE Modem w/ RJ45 LAN (Amazon)](https://www.amazon.com/Peplink-MAX-BR1-MINI-LTE-US-T-M-Mini-Single-Modem/dp/B08CRZN1DN)
 
 ## Storage / Organization
 
@@ -162,8 +177,8 @@ A crowd-sourced list of equipment and hardware for installations
   - [3M VHB, 15' (Amazon)](https://www.amazon.com/Width-Length-Black-Multipurpose-Double/dp/B07K4PQG8P)
 - Folding Table
   - [Folding Table](https://www.homedepot.com/p/Lifetime-4-ft-One-Hand-Adjustable-Height-Fold-in-Half-Table-Almond-80726/305551875)
-- AntiStatic Bags
-  - [Antistatic Bags, 20x Pack (Amazon)](https://www.amazon.com/Daarcin-Resealable-8-26x9-45in-21x24cm-Electronic/dp/B08CK6HFGZ)
+- Anti-Static Bags
+  - [Anti-static Bags, 20x Pack (Amazon)](https://www.amazon.com/Daarcin-Resealable-8-26x9-45in-21x24cm-Electronic/dp/B08CK6HFGZ)
 - Magnetic Trays
   - [Magnetic Storage Trays (Amazon)](https://www.amazon.com/WXTOOLS-Magnetic-Organizer-Handyman-Woodworker/dp/B0921QVMVW/ref=sr_1_17?dchild=1&keywords=organizer+for+pc+parts&qid=1623382050&sr=8-17)
 
@@ -191,12 +206,12 @@ A crowd-sourced list of equipment and hardware for installations
   - [Duracell AAA, 20x Pack (Amazon)](https://www.amazon.com/Duracell-CopperTop-Batteries-all-purpose-household/dp/B002UXRXE6)
   - [Duracell 9V, 4x Pack (Amazon)](https://www.amazon.com/dp/B000K2NW08)
 
-## Electronics
+## Electronics / Electrical
 
 - Multimeter
   - [AstroAI Digital Multimeter (Amazon)](https://www.amazon.com/AstroAI-Multimeter-Resistance-Transistors-Temperature/dp/B071JL6LLL)
 - Pocket Oscilloscope
-  - [Mini DSO213 4 Channel Oscilloscope (Amazon)](https://www.amazon.com/SainSmart-Handheld-Pocket-Sized-Oscilloscope-Channels/dp/B07JQ3HRMX)
+  - [Mini DSO213 4 Channel Oscilloscope (Amazon)](https://www.amazon.com/Oscilloscope-Portable-Handheld-Digital-Storage/dp/B08D6FB25V)
 - USB Protocol Analyzer
   - [Beagle 12 USB Protocol Analyzer](https://www.totalphase.com/products/beagle-usb12/)
 - Logic Analyzer
@@ -205,3 +220,9 @@ A crowd-sourced list of equipment and hardware for installations
   - [Heat Shrink](https://www.digikey.com/en/product-highlight/3/3m/heatshrink-tubing-products)
 - Polymide Film
   - [3M Polymide protection tape](https://www.digikey.com/en/product-highlight/3/3m/3m-polyimide-film-tape-5413)
+- Wire Connectors
+  - [WAGO Lever-nuts, assorted (Amazon)](https://www.amazon.com/dp/B08W3QXN9B)
+- Decimator Converters
+  - [Assorted](https://www.decimator.com/Products/Products.html)
+- Receptacle
+  - [Outlet/Receptable Tester](https://www.amazon.com/Sperry-Instruments-GFI6302-Receptacle-Professional/dp/B000RUL2UU)
